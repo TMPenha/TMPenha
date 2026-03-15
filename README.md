@@ -1,35 +1,32 @@
-# Thiago Malbar
+# Thiago Malbar Da Penha
 
-AI & Data Systems Engineer
-
+Analytics Engineer  
 MSc in Applied Computing for Data Science  
 BSc in Chemical Engineering  
 
 Brazil 🇧🇷
 
-Engineer building reliable **data platforms and AI systems** for complex digital environments.
+I work with data systems that support analytics, experimentation and decision-making.
 
-My work focuses on designing **scalable data infrastructures**, **observable pipelines**, and **intelligent systems** that support decision-making in domains such as:
+My background is mainly in **Analytics Engineering**, working with data pipelines, analytical modeling and experimentation in data-intensive environments such as digital platforms, financial systems and marketplaces.
 
-- financial platforms
-- payment systems
-- antifraud analytics
-- digital marketplaces
-- people analytics
+Currently exploring **data infrastructure, causal analysis and AI applications for data systems.**
 
 ---
 
+
 # 🧠 About
 
-I work at the intersection of:
+My work sits between:
 
-- Data Engineering
 - Analytics Engineering
-- AI / ML Systems
+- Data Engineering
+- Applied Data Science
 
-Throughout my career I have designed and implemented **data solutions for high-scale digital platforms**, including financial systems, payment infrastructures, digital marketplaces, and internal analytics platforms.
+Most of my experience comes from building **analytical data models and pipelines** used by product, finance and operations teams.
 
-These experiences led me to focus on building systems that ensure:
+Over time I became interested in the **reliability and observability of data pipelines**, which led me to study topics like:
+
 
 - **data reliability**
 - **causal understanding**
@@ -41,6 +38,9 @@ My work increasingly focuses on **AI infrastructure for data systems**.
 
 # 🎯 Core Interests
 
+- Analytics Engineering
+- Data Pipelines
+- Data Quality and Observability
 - AI / ML Systems Engineering  
 - Data Platforms & Distributed Systems  
 - Data Observability & Reliability  
@@ -140,36 +140,35 @@ Some principles that guide how I design systems:
 
 ## Languages
 
-Python  
-SQL  
+Python - SQL  
 
 ## Data Processing
 
-PySpark  
-Apache Spark  
+PySpark - Apache Spark  
 
 ## Data Platforms
 
-Databricks  
-Airflow  
-Azure Data Factory  
+Databricks  - Airflow - Azure Data Factory  
 
 ## Data Warehousing
 
-Snowflake  
-BigQuery  
-Redshift  
+Snowflake  - BigQuery - Redshift  
 
 ## Cloud
 
-AWS  
-GCP  
-Azure  
+AWS  - GCP - Azure  
 
 ## AI / ML
 
-scikit-learn  
-LLM Applications  
+scikit-learn - LLM Applications  
+
+### LLM Applications
+
+LangChain  - OpenAI API  - Prompt Engineering
+
+### Graphs & Data Lineage (Research)
+
+NetworkX  - Graph-based data lineage modeling
 
 ---
 
