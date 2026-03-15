@@ -1,4 +1,10 @@
 # Thiago Malbar Da Penha
+Analytics Engineer  
+MSc in Applied Computing for Data Science  
+BSc in Chemical Engineering  
+
+Brazil 🇧🇷
+
 
 I work with data systems that support analytics, experimentation and decision-making.
 
